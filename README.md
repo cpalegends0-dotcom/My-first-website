@@ -1,0 +1,1 @@
+I've created my first website using html, css. I applied many new concepts, including z-index, display: flex, media, overflow, display:block, flex-wrap, etc. I implemented a navigation bar, a sidebar, a main content and a footer using divs. 
